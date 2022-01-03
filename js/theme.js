@@ -1,6 +1,6 @@
 /*
 ================================================================
-* Template:  	 Carlos Vinicius - Personal Portfolio Template
+* Template:  	 Carlos Oliveira - Personal Portfolio Template
 * Written by: 	 Harnish Design - (https://www.harnishdesign.net)
 * Description:   Main Custom Script File
 ================================================================
